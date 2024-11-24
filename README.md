@@ -22,12 +22,17 @@ Setup Instructions
 
 ## API Endpoints
 Method	Endpoint	Description
+
 GET	/api/v1/test	Test route.
+
 POST	/api/v1/auth	User authentication.
+
 GET	/api/v1/user	User management.
+
 GET	/api/v1/resturant	Manage restaurants.
+
 GET	/api/v1/category	Manage categories.
+
 GET	/api/v1/food	Manage food items.
-Project Structure
-bash
+
 
