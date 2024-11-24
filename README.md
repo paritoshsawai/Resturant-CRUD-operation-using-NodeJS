@@ -1,9 +1,9 @@
 # Resturant-CRUD-operation-using-NodeJS
 
-##Food Server API
+## Food Server API
 A robust backend application for managing users, restaurants, food categories, and food items, designed to support a food-related platform.
 
-##Features
+## Features
 RESTful API with modular routes.
 Cross-Origin Resource Sharing (CORS) enabled.
 Built-in middleware for request parsing and logging.
@@ -20,7 +20,7 @@ Setup Instructions
 
 
 
-##API Endpoints
+## API Endpoints
 Method	Endpoint	Description
 GET	/api/v1/test	Test route.
 POST	/api/v1/auth	User authentication.
